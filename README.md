@@ -1,6 +1,6 @@
 # Squirrel Puppet Module for Boxen
 [![Build
-Status](https://travis-ci.org/fundon/puppet-squirrel.png?branch=master)](https://travis-ci.org/fundon/puppet-squirrel)
+Status](https://travis-ci.org/boxen/puppet-squirrel.svg?branch=master)](https://travis-ci.org/boxen/puppet-squirrel)
 
 Install [Squirrel](https://github.com/lotem/squirrel), 【鼠鬚管】輸入法.
 
