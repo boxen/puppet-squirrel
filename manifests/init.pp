@@ -5,7 +5,7 @@
 #   include squirrel
 class squirrel {
   package { 'Squirrel':
-    source   => 'http://dl.bintray.com/lotem/rime/Squirrel-0.9.26.2.zip',
+    source   => 'https://dl.bintray.com/rime/squirrel/Squirrel-0.10.0.zip',
     provider => 'compressed_pkg'
   }
 }
